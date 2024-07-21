@@ -6,9 +6,9 @@ Fortunately, through the debug console, the `goto` command can be used to telepo
 
 | Item | Rooms Blocked Off | Entry Command | Exit Command |
 | --- | --- | --- | --- |
-| Lovers | Dormitory | goto Student Dorms | goto Blockwart Corridor |
-| Star | Hospital Room, Hospital Hallway, Apartment | goto Hospital Hallway | goto Atrium; goto Clothesline Hallway; goto Apartment Corridor |
-| Sun | Packstation, Photo Store | goto Packstation; goto Photostore | goto Metro Station; goto Cables Corridor |
-| Death | Commercial Corridor, Backyard, Backroom, Bookstore | goto Commercial Corridor; goto Backyard; goto Backroom; goto Book Store | goto Lobby; goto Space Between Walls |
-| Moon | Butterfly Room | goto Butterfly Apartment | goto Clothesline Hallway |
+| Lovers | Dormitory | `goto Student Dorms` | `goto Blockwart Corridor` |
+| Star | Hospital Room, Hospital Hallway, Apartment | `goto Hospital Hallway` | `goto Atrium`; `goto Clothesline Hallway`; `goto Apartment Corridor` |
+| Sun | Packstation, Photo Store | `goto Packstation`; `goto Photostore` | `goto Metro Station`; `goto Cables Corridor` |
+| Death | Commercial Corridor, Backyard, Backroom, Bookstore | `goto Commercial Corridor`; `goto Backyard`; `goto Backroom`; `goto Book Store` | `goto Lobby`; `goto Space Between Walls` |
+| Moon | Butterfly Room | `goto Butterfly Apartment` | `goto Clothesline Hallway` |
 | Tower |  |  |  |
