@@ -1,10 +1,10 @@
-|Internal Name      |In-Game Name           |Item Type (Archipelago)|Notes                                                      |
+|Internal Name      |Item Name           |Item Type (Archipelago)|Notes                                                      |
 |-------------------|-----------------------|-----------------------|-----------------------------------------------------------|
-|arianephoto        |Photograph             |Progression            |                                                           |
+|arianephoto        |Photograph (Ariane)             |Progression            |                                                           |
 |brokenkey          |Airlock Key (Broken)   |Progression            |                                                           |
 |tape               |Adhesive Tape          |Progression            |There are two instances of this item shuffled into the pool|
 |yellowking         |The King in Yellow     |Filler                 |                                                           |
-|alinaphoto         |Photograph             |Filler                 |                                                           |
+|alinaphoto         |Photograph (Alina)            |Filler                 |                                                           |
 |classroomkey       |Classroom Key          |Progression            |                                                           |
 |microfiche         |Aperture Card          |Progression            |                                                           |
 |observationkey     |Protektor Key          |Progression            |                                                           |
