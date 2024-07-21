@@ -1,4 +1,4 @@
-|Internal Name      |Item Name           |Item Type (Archipelago)|Notes                                                      |
+|Internal Name      |Item Name           |Item Type|Notes                                                      |
 |-------------------|-----------------------|-----------------------|-----------------------------------------------------------|
 |arianephoto        |Photograph (Ariane)             |Progression            |                                                           |
 |brokenkey          |Airlock Key (Broken)   |Progression            |                                                           |
