@@ -12,6 +12,7 @@ This manual was tested with the latest SIGNALIS version 1.2 KRÄHE. It should wo
 Notes are not randomized. Neither are items that you acquire as a result of combining items (such as Butterfly Key or Revolver). The Earth Key is also not randomized, only the Blank Key is.
 
 **The debug console**
+
 This manual is intended to be used in tandem with SIGNALIS' built-in debug console. To access the debug console:
 1. Load into a save
 2. Press F7 (nothing will happen)
@@ -27,6 +28,7 @@ Once in the debug menu, the commands `give`, `remove`, and `boxall` are used whe
 - The `boxall` command will move all items currently in Elster's inventory into the storage box system found in save rooms.
 
 **Additional notes**
+
 For the complete item list of Archipelago Items and their in-game equivalents to use with the debug menu, see item_list.md.
 
 For more info and debug commands regarding Rotfront's flesh doors, see rotfront_flesh_walls.md.
