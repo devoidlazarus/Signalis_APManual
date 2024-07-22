@@ -35,4 +35,4 @@ For more info and debug commands regarding Rotfront's flesh doors, see [rotfront
 
 For more info and debug commands regarding item pickup amount changes across game difficulties, see [difficulty_changes.md](difficulty_changes.md).
 
-Since the Broken Airlock Key and Adhesive Tape are essentially SIGNALIS' equivalent of a randomized Morph Ball from Super Metroid, if playing in a multiworld, it is recommended to not progress until you receive both of these items so you can exit the Penrose Crash site and access the first Save Room within Installation Aeon. Otherwise, 
+Since the Broken Airlock Key and Adhesive Tape are essentially SIGNALIS' equivalent of a randomized Morph Ball from Super Metroid, if playing in a multiworld, it is recommended to not progress until you receive both of these items so you can exit the Penrose Crash site and access the first Save Room within Installation Aeon.
