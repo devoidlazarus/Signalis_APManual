@@ -18,7 +18,7 @@ This manual is intended to be used in tandem with SIGNALIS' built-in debug conso
 4. Hit Enter
 5. If successful, four small dots will appear at the top left of your screen. Elster may or may not take damage.
 
-These steps must be performed every time debug mode is exited or the game .exe is restarted.
+These steps must be performed every time the game .exe is restarted.
 
 Once in the debug menu, the commands `give`, `remove`, and `boxall` are used when checking Locations in-game and receiving Items in Archipelago.
 - The `give` command is to give Elster an Item. ex: `give microfiche` gives the Aperture Key.
