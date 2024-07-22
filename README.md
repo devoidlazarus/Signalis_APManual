@@ -18,14 +18,15 @@ This manual is intended to be used in tandem with SIGNALIS' built-in debug conso
 2. Press F7 (nothing will happen)
 3. Type `ausruinen` (nothing will happen, there is also no visual indicator of the letters being typed)
 4. Hit Enter
-5. If successful, four small dots will appear at the top left of your screen. Elster may or may not take damage.
+5. If successful, four small dots will appear at the top left of your screen. Elster may or may not take damage. Press F7 again to open the debug console.
 
 These steps must be performed every time the game .exe is restarted.
 
-Once in the debug menu, the commands `give`, `remove`, and `boxall` are used when checking Locations in-game and receiving Items in Archipelago.
+Once in the debug menu, the commands `give`, `remove`, `boxall`, and `radio` are used when checking Locations in-game and receiving Items in Archipelago.
 - The `give` command is to give Elster an Item received via Archipelago. ex: `give microfiche` gives the Aperture Key.
 - The `remove` command is to remove an item from Elster's inventory. Meant to be used when receiving an item from a Location, but Archipelago has not sent you that Item yet. ex: `remove rifle` will remove the Rifle after picking it up.
 - The `boxall` command will move all items currently in Elster's inventory into the storage box system found in save rooms.
+- The `radio` command will toggle access to the Radio Module.
 
 **Additional notes**
 
