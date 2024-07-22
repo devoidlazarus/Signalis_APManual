@@ -21,8 +21,8 @@ This manual is intended to be used in tandem with SIGNALIS' built-in debug conso
 These steps must be performed every time the game .exe is restarted.
 
 Once in the debug menu, the commands `give`, `remove`, and `boxall` are used when checking Locations in-game and receiving Items in Archipelago.
-- The `give` command is to give Elster an Item. ex: `give microfiche` gives the Aperture Key.
-- The `remove` command is to remove an item from Elster's inventory. Meant to be used when receiving an item from a Location, but Archipelago has not sent you that item yet. ex: `remove rifle` will remove the Rifle after picking it up.
+- The `give` command is to give Elster an Item received via Archipelago. ex: `give microfiche` gives the Aperture Key.
+- The `remove` command is to remove an item from Elster's inventory. Meant to be used when receiving an item from a Location, but Archipelago has not sent you that Item yet. ex: `remove rifle` will remove the Rifle after picking it up.
 - The `boxall` command will move all items currently in Elster's inventory into the storage box system found in save rooms.
 
 For the complete item list of Archipelago Items and their in-game equivalents to use with the debug menu, see item_list.md.
